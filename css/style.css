@@ -1,0 +1,17 @@
+body{
+	display: flex;
+	background-color: green;
+}
+
+h1{
+	text-align: center;
+}
+
+
+div{
+	text-align: center;
+}
+img{
+	border: 2px solid black;
+	visibility: none;
+}
